@@ -4,22 +4,10 @@
   padding-left: 80px;
   padding-right: 80px;
   padding-bottom: 70px;
-  margin-left: 50px;
-}
-.mylist li{
-  display: flex;
-  justify-content: space-between;
-  margin-left: 20px;
-}
-.li{
-  text-decoration: none;
 }
 .title {
   color: white;
   text-align: right;
-}
-.todo{
-  margin-left: 50px;
 }
 h1 {
   font-size: 50px;
